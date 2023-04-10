@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/rework-task/static/css/main.cfcf94cd.css",
+    "main.js": "/rework-task/static/js/main.1fa8da3f.js",
+    "static/js/787.e816ebe4.chunk.js": "/rework-task/static/js/787.e816ebe4.chunk.js",
+    "static/media/problem.svg": "/rework-task/static/media/problem.94fc16b3e75498a8e1d08d2759feb006.svg",
+    "static/media/marketer.svg": "/rework-task/static/media/marketer.7c4c8246d9839a01054c9a3b16d3c1d1.svg",
+    "static/media/credit.jpg": "/rework-task/static/media/credit.458c9b44bfdaa0be3f7a.jpg",
+    "static/media/Rise.svg": "/rework-task/static/media/Rise.bc3c89d53cf14561e10d6d1d74e9d473.svg",
+    "static/media/tablet.jpg": "/rework-task/static/media/tablet.9d884c93d5b1984fad45.jpg",
+    "static/media/projector.jpg": "/rework-task/static/media/projector.cf62f970558fb0a6a350.jpg",
+    "static/media/mac.jpg": "/rework-task/static/media/mac.804b03998565f7369e0a.jpg",
+    "static/media/Superhero.svg": "/rework-task/static/media/Superhero.e7e138b6eb5657adb522e6ae7a622bd9.svg",
+    "static/media/ad.jpg": "/rework-task/static/media/ad.bcd8afa16a97843f6846.jpg",
+    "static/media/Brand.jpg": "/rework-task/static/media/Brand.9bfeaf84af821ea0fadf.jpg",
+    "static/media/ecommerce.jpg": "/rework-task/static/media/ecommerce.afec18864fcb7d796287.jpg",
+    "static/media/danger.jpg": "/rework-task/static/media/danger.00fdd8ff946eca4494ff.jpg",
+    "static/media/mobile.jpg": "/rework-task/static/media/mobile.0d9b19f8802815fa6de7.jpg",
+    "static/media/hdfc.jpg": "/rework-task/static/media/hdfc.44e11852f25896fd514a.jpg",
+    "static/media/icici.jpg": "/rework-task/static/media/icici.57c48ff3c00fc0f7cce9.jpg",
+    "static/media/flipkart.jpg": "/rework-task/static/media/flipkart.7bcb451896b07d74175d.jpg",
+    "static/media/amazon.jpg": "/rework-task/static/media/amazon.d4bb16f74d9cf1485d94.jpg",
+    "static/media/revicons.eot": "/rework-task/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/Unilever.jpg": "/rework-task/static/media/Unilever.170de3410d2ee9349313.jpg",
+    "static/media/revicons.ttf": "/rework-task/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/rework-task/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/rework-task/index.html",
+    "main.cfcf94cd.css.map": "/rework-task/static/css/main.cfcf94cd.css.map",
+    "main.1fa8da3f.js.map": "/rework-task/static/js/main.1fa8da3f.js.map",
+    "787.e816ebe4.chunk.js.map": "/rework-task/static/js/787.e816ebe4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfcf94cd.css",
+    "static/js/main.1fa8da3f.js"
+  ]
+}
